@@ -1,0 +1,93 @@
+body{
+    margin:0;
+    font-size: 20px;
+}
+section{
+    padding-bottom: 100px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color:red;
+}
+.one{
+    display: flex;
+    background-image: url("/image/top-banner.png");
+    background-repeat: no-repeat;
+}
+.one h1{
+    font-size: 70px;
+}
+.one h2{
+    font-size: 60px;
+    padding-top: 0;
+}
+.p-one{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.p-one img{
+    width: 80%;
+}
+.p-one a{
+    text-decoration: none;
+    background: teal;
+    padding: 15px 25px;
+    color: white;
+    margin-left: 20px;
+}
+.two{
+    display: flex;
+    background-image: url();
+    background-repeat: no-repeat;
+}
+.para{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.para img{
+        width: 80%;
+}
+.two h2{
+    font-size: 60px;
+    padding-top: 0;
+}
+.para a{
+    text-decoration: none;
+    background: teal;
+    padding: 15px 25px;
+    color: white;
+    margin-left: 20px;
+}
+.three{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.three h1{
+    font-size: 80px;
+}
+.aline{
+    display: flex;
+}
+.param{
+    width:50%;
+    margin-left: 5%;
+    padding-left: 3%;
+    box-shadow: 5px 5px 50px gray;
+}
+#aab{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice:1;
+}
+#bba{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange,green);
+    border-image-slice:1;
+}
+footer{
+    text-align: center;
+}
