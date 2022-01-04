@@ -12,7 +12,7 @@ span{
 }
 .one{
     display: flex;
-    background-image: url("/Image/top-banner.png");
+    background-image: url("Image/top-banner.png");
     background-repeat: no-repeat;
 }
 .one h1{
